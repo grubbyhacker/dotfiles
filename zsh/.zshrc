@@ -106,5 +106,3 @@ eval $(thefuck --alias fk)
 eval "$(zoxide init zsh)"
 
 alias cd="z"
-
-# [[ -s "/Users/rfleig/.gvm/scripts/gvm" ]] && source "/Users/rfleig/.gvm/scripts/gvm"
