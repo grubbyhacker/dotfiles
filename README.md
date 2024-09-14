@@ -1,7 +1,7 @@
 # dotfiles
 This repository holds the configurations for my *nix environment for such things as my terminal (wezterm), window manager (yabai), shell (zsh), editor (nvim) and various other command line tools.
 
-# Usage
+## Usage
 Clone the repo:
 ``` 
 git clone https://github.com/grubbyhacker/dotfiles.github ~/dotfiles
@@ -23,3 +23,6 @@ stow wezterm
 stow yabai
 stow zsh
 ```
+
+## Credits
+Huge thank you to [Josean Martinez](https://github.com/josean-dev/dev-environment-files) whose tutorials heavily inspired much of my setup.
