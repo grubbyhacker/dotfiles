@@ -3,10 +3,14 @@ This repository holds the configurations for my *nix environment for such things
 
 # Usage
 Clone the repo:
-``` git clone https://github.com/grubbyhacker/dotfiles.github ~/dotfiles ```
+``` 
+git clone https://github.com/grubbyhacker/dotfiles.github ~/dotfiles
+```
 
 Switch to the dotfiles directory
-```cd ~/dotfiles ```
+```
+cd ~/dotfiles
+```
 
 Use the stow utility to add each configuration to their proper location
 ```
